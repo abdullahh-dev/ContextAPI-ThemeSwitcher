@@ -1,0 +1,8 @@
+img {
+  width: 270px;
+  /* transform: translateX(50px); */
+}
+
+.circles > div {
+  cursor: pointer;
+}
